@@ -45,7 +45,7 @@ Ce diagramme illustre les grandes étapes du traitement, de la capture d’image
 
 La structuration des différents nœuds, topics et services du projet est représentée visuellement dans l'image ci-dessous :
 
-![Architecture ROS2](./images/architecture_ros2.png)
+![Architecture ROS2](archi.png)
 
 ---
 
